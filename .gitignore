@@ -1,0 +1,12 @@
+# Ignore data folders
+Main_Data/
+Description/
+myvenv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment/config files
+.env
+*.log

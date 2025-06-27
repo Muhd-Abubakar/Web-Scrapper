@@ -1,0 +1,5 @@
+undetected-chromedriver
+beautifulsoup4
+pandas
+selenium
+tqdm
